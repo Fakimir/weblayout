@@ -1,0 +1,42 @@
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+h2,
+h3,
+p {
+    margin: 0;
+}
+
+body {
+    font-family: 'Open Sans' !important;
+    font-style: normal;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+a {
+    cursor: pointer;
+}
+
+*:focus {
+    outline: none;
+}
+
+.swiper-slide {
+    border: none;
+}
+
+label {
+    cursor: pointer;
+}
+
+* {
+    box-sizing: border-box;
+}
